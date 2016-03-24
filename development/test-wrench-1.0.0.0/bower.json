@@ -1,0 +1,21 @@
+{
+  "name": "wrench-1.0.0.0",
+  "description": "Wrench-1.0.0.0 Application",
+  "main": "wrench",
+  "authors": [
+    "Joseph Godwin Kimani"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "shell"
+  ],
+  "moduleType": [],
+  "homepage": "https://bitbucket.org/gochojr/wrench",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

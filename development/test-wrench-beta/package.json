@@ -1,0 +1,33 @@
+{
+    "name": "wrench",
+    "title": "Wrench Application",
+    "description": "Wrench Application",
+    "version": "0.0.0",
+    "keywords": [
+        "shell"
+    ],
+    "author": {
+        "name": "Joseph Godwin Kimani",
+        "email": "josephgodwinke@gmail.com",
+        "url": "http://gochojr.github.io"
+    },
+    "bugs": {
+        "email": "josephgodwinke@gmail.com",
+        "url": "https://bitbucket.org/gochojr/wrench"
+    },
+    "repository": {
+        "type": "hg",
+        "url": "ssh://hg@bitbucket.org/gochojr/wrench"
+    },
+    "license": "MIT",
+    "files": [
+        "dist/**"
+    ],
+    "ignore": [
+        "*.tmp"
+    ],
+    "pak": {
+        "import": true,
+        "mode": "release"
+    }
+}

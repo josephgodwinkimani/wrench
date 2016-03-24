@@ -1,0 +1,19 @@
+@ECHO OFF
+  
+PUSHD %1
+
+call copy_nfos.bat D:\dc\share\x264_1080p d:\data\nfos\film nowait
+call copy_nfos.bat D:\dc\share\x264_custom d:\data\nfos\film nowait
+call copy_nfos.bat D:\dc\share\xvid d:\data\nfos\film nowait
+
+call copy_nfos.bat G:\dc\share\dvdr d:\data\nfos\film nowait
+
+call copy_nfos.bat O:\dc\share\dvdr d:\data\nfos\film nowait
+call copy_nfos.bat O:\dc\share\x264_720p d:\data\nfos\film nowait
+
+call copy_nfos.bat P:\dc\share\dvdr d:\data\nfos\film nowait
+
+:s_end
+POPD
+
+pause

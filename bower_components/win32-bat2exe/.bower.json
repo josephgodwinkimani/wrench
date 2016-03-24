@@ -1,0 +1,14 @@
+{
+  "name": "win32-bat2exe",
+  "homepage": "https://github.com/juntalis/win32-bat2exe",
+  "_release": "a85bd5d0e9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a85bd5d0e92f37f9ba3e8e5667d0218edee9ba89"
+  },
+  "_source": "https://github.com/juntalis/win32-bat2exe.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/juntalis/win32-bat2exe.git",
+  "_direct": true
+}

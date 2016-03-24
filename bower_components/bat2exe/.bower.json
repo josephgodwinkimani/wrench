@@ -1,0 +1,14 @@
+{
+  "name": "bat2exe",
+  "homepage": "https://github.com/islamadel/bat2exe",
+  "_release": "4d3ff10962",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4d3ff109627e8f264731f07e83dcb42e9b8dc2ee"
+  },
+  "_source": "https://github.com/islamadel/bat2exe.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/islamadel/bat2exe.git",
+  "_direct": true
+}

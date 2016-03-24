@@ -1,0 +1,22 @@
+{
+  "name": "wrench",
+  "description": "simple command-line interpreter",
+  "main": "prompt.bat",
+  "authors": [
+    "Joseph Godwin Kimani"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "shell"
+  ],
+  "moduleType": [],
+  "homepage": "https://bitbucket.org/gochojr/wrench",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

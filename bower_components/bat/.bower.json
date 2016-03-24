@@ -1,0 +1,14 @@
+{
+  "name": "bat",
+  "homepage": "https://github.com/JofaHbx/bat",
+  "_release": "fcf5819884",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fcf58198842b4e7cca66e40d03e3f50be9b94710"
+  },
+  "_source": "https://github.com/JofaHbx/bat.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/JofaHbx/bat.git",
+  "_direct": true
+}

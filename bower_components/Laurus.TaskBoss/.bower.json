@@ -1,0 +1,14 @@
+{
+  "name": "Laurus.TaskBoss",
+  "homepage": "https://github.com/thebeekeeper/Laurus.TaskBoss",
+  "_release": "d081bad594",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d081bad594e319982990815a0a3c10e9ea0f08db"
+  },
+  "_source": "https://github.com/thebeekeeper/Laurus.TaskBoss.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/thebeekeeper/Laurus.TaskBoss.git",
+  "_direct": true
+}
