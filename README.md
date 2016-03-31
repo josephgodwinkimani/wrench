@@ -50,3 +50,5 @@ Shell Happy? :smile: Start contributing to [wrench project](https://bitbucket.or
 > [>>>>>**USAGE**](https://bitbucket.org/torsybil/wrench/wiki/Usage)
 > 
 > [>>>>>**CONTRIBUTIONS**](https://bitbucket.org/torsybil/wrench/wiki/Contributions)
+>
+> [>>>>>**QUICK START VIDEO**](https://youtu.be/9lcRb_51vvY)
