@@ -1,8 +1,8 @@
 # README #
 
-**wrench** is a command-line interpreter that can run on Windows 8.1, Windows 8, Windows 7, Windows Vista, Windows XP, Windows NT, Windows CE, OS/2 and eComStation operating systems.
+**wrench** is a compilation of automated batch scripts that can run on Windows 8.1, Windows 8, Windows 7, Windows Vista, Windows XP, Windows NT, Windows CE, OS/2 and eComStation operating systems.
 
-![wrenchaa.png](https://bitbucket.org/torsybil/wrench/raw/a92c585569a363cc6921762dc11fb551f894d9e2/wrenchaa.png)
+![wrenchaa.png](https://bitbucket.org/josephgodwinkimani/wrench/raw/a92c585569a363cc6921762dc11fb551f894d9e2/wrenchaa.png)
 
 ### What is this repository for? ###
 
@@ -14,11 +14,11 @@ wrench provides the daily [windows command-line(cmd.exe)](http://windows.microso
 
 This is the only release of wrench as of now!
 
-*** [Learn wrench](https://bitbucket.org/torsybil/wrench/wiki)**
+*** [Learn wrench](https://bitbucket.org/josephgodwinkimani/wrench/wiki)**
 
 #### How do I get set up? 
 
-* [Jump start!](https://bitbucket.org/torsybil/wrench/wiki/Home)
+* [Jump start!](https://bitbucket.org/josephgodwinkimani/wrench/wiki/Home)
 * Run your first command `manpages`
 * wrench it!
 
@@ -31,7 +31,7 @@ _This application requires you to have an existing cmd.exe that is enabled._
 
 #### Contribution guidelines ###
 
-Shell Happy? :smile: Start contributing to [wrench project](https://bitbucket.org/torsybil/wrench) now!
+Shell Happy? :smile: Start contributing to [wrench project](https://bitbucket.org/josephgodwinkimani/wrench) now!
 
 
 #### I want no source files just the .exe only!!!
@@ -39,16 +39,16 @@ Shell Happy? :smile: Start contributing to [wrench project](https://bitbucket.or
 
 ### Who do I talk to? ###
 
-* Repo owner or admin - [Joseph Godwin Kimani](https://github.com/torsybil)
+* Repo owner or admin - [Joseph Godwin Kimani](https://github.com/josephgodwinkimani)
 
 --------------------------------------------------------
 
-> [>>>>>**GET STARTED**](https://bitbucket.org/torsybil/wrench/wiki/Home)
+> [>>>>>**GET STARTED**](https://bitbucket.org/josephgodwinkimani/wrench/wiki/Home)
 > 
-> [>>>>>**CHEATSHEET**](https://bitbucket.org/torsybil/wrench/wiki/CheatSheet)
+> [>>>>>**CHEATSHEET**](https://bitbucket.org/josephgodwinkimani/wrench/wiki/CheatSheet)
 > 
-> [>>>>>**USAGE**](https://bitbucket.org/torsybil/wrench/wiki/Usage)
+> [>>>>>**USAGE**](https://bitbucket.org/josephgodwinkimani/wrench/wiki/Usage)
 > 
-> [>>>>>**CONTRIBUTIONS**](https://bitbucket.org/torsybil/wrench/wiki/Contributions)
+> [>>>>>**CONTRIBUTIONS**](https://bitbucket.org/josephgodwinkimani/wrench/wiki/Contributions)
 >
-> [>>>>>**QUICK START VIDEO**](https://youtu.be/9lcRb_51vvY)
+> [>>>>>**QUICK START VIDEO**](https://youtube.com)
